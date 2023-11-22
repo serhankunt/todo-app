@@ -1,0 +1,51 @@
+/* Container styling */
+.container {
+    margin-top: 30px;
+  }
+  
+  /* Heading styling */
+  h1 {
+    text-align: center;
+    color: #4285f4; /* Google Blue */
+  }
+  
+  /* Form styling */
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  /* Button styling */
+  .btn {
+    cursor: pointer;
+    background-color: #4caf50; /* Green */
+    color: white;
+    border: none;
+    padding: 10px;
+  }
+  
+  /* List styling */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Input styling */
+  .form-control {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  /* Edit section styling */
+  label {
+    display: block;
+    margin-top: 10px;
+    color: #4285f4; /* Google Blue */
+  }
+  
+  /* Add more styles as needed */
+  
